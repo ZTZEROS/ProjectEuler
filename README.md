@@ -1,2 +1,2 @@
 # ProjectEuler
- Fool Project Euler solution
+ Fool Project Euler solution up to Problem63
